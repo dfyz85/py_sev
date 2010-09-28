@@ -1,6 +1,6 @@
 # -*- coding: utf8 -*-
 '''
-Created on 27.09.2010
+Created on 20.09.2010
 
 @author: i.saltykov
 '''
